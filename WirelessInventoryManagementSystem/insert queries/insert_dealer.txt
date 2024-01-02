@@ -1,0 +1,42 @@
+
+insert into dealer_store 
+values(1, 'sprint','eu.nibh@hotmail.edu', '(663) 169-4288', 
+'07-09-17', 'Ap #894-4908 Dictum Av.', 'Birmingham', null);
+
+insert into dealer_store 
+values(2, 'mint',null, '1-979-283-3405', 
+'11-08-04', 'Ap #574-6442 Tortor. Rd.', 'Kansas City', 'United States');
+
+insert into dealer_store 
+values(3, 'boost','vivamus@hotmail.com', '1-596-786-6440', 
+'07-18-03', 'P.O. Box 761, 9288 Sit Road', null, 'United States');
+
+insert into dealer_store  
+values(4, 'boost', null , '1-664-738-9719',  
+null, 'Ap #922-6893 Ultrices. Rd.', 'Broken Arrow', null);
+
+insert into dealer_store 
+values(5, 'mint', 'ornare.libero@outlook.com' , '1-218-617-4051', 
+'02-26-22', '652-5687 Nisl Ave', 'Lawton', 'United States');
+
+insert into dealer_store 
+values(6, 'at&t', 'lobortis.nisi.nibh@yahoo.ca' , '1-871-365-8927', 
+null, null, 'Gillette', 'United States');
+
+
+insert into dealer_store  
+values(7, 't-mobile', 'scelerisque.lorem@google.org' , '1-686-661-8226',  
+'10-14-10', 'Ap #706-8430 Elit Street', 'Worcester', 'United States');
+
+insert into dealer_store  
+values(8, 'at&t', 'nisl.sem@google.ca' , '(910) 592-4569',  
+null, '663-7742 Per Rd.', null, 'United States');
+
+insert into dealer_store  
+values(9, 'xfinity', 'malesuada@yahoo.com' , '1-769-886-6242',  
+'04-07-12', '417-6767 Venenatis St.', 'Hilo', 'United States');
+
+insert into dealer_store  
+values(10, 'mint', null , '(531) 321-6399',  
+'03-27-07', 'P.O. Box 536, 4928 Amet St.', 'Fresno', null);
+

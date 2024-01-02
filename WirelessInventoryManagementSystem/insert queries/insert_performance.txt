@@ -1,0 +1,90 @@
+
+insert into performance
+values(1001, 103, 5101, 'Manager', 2641, 82, 9.8);
+
+insert into performance
+values(1002, 114, 5102, 'Manager', null, 94, 8);
+
+insert into performance
+values(1003, 125, 5103, 'Supervisor', 4445, 70, 3.5);
+
+insert into performance
+values(1004, 103, 5104, 'Supervisor', 3679, null, 3.5);
+
+insert into performance
+values(1005, 129, 5105, 'Cashier', 213, 65, 9);
+
+insert into performance
+values(1006, 105, 5106, 'Supervisor', 765, 16, 5.5);
+
+insert into performance
+values(1007, 122, 5107, 'Cashier', 3443, 17, 7.5);
+
+insert into performance
+values(1008, 103, 5108, 'Manager', 4533, null, 7.7);
+
+insert into performance
+values(1009, 103, 5109, 'Cashier', 4093, 73, 9.8);
+
+insert into performance
+values(1010, 102, 5110, 'Worker', 4662, 2, 8);
+
+insert into performance
+values(1011, 109, 5111, 'Manager', 2206, 17, 8);
+
+insert into performance
+values(1012, 102, 5112, 'Cashier', 742, 11, 3);
+
+insert into performance
+values(1013, 10, 5113, 'Worker', 721, 13, 2);
+
+insert into performance
+values(1014, 114, 5114, 'Cashier', 4666, 81, 10);
+
+insert into performance
+values(1015, 125, 5115, 'Cashier', 948, null, 5.87);
+
+insert into performance
+values(1016, 103, 5116, 'Supervisor', 897, 6, 8);
+
+insert into performance
+values(1017, 129, 5117, 'Cashier', 4195, 8, 4.5);
+
+insert into performance
+values(1018, 105, 5118, 'Supervisor', 2128, 32, 5.5);
+
+insert into performance
+values(1019, 122, 5119, 'Cashier', 3542, 78, 9.8);
+
+insert into performance
+values(1020, 103, 5120, 'Worker', 1525, null, 5.1);
+
+insert into performance
+values(1021, 103, 5121, 'Worker', 4373, 31, 3.3);
+
+insert into performance
+values(1022, 109, 5122, 'Supervisor', 4685, 10, 2.5);
+
+insert into performance
+values(1023, 102, 5123, 'Supervisor', 3242, 85, 3);
+
+insert into performance
+values(1024, 119, 5124, 'Worker', 400, 17, 7.75);
+
+insert into performance
+values(1025, 102, 5125, 'Worker', 4770, 69, 6);
+
+insert into performance
+values(1026, 104, 5126, 'Worker', 1093, 37, 8.4);
+
+insert into performance
+values(1027, 124, 5127, 'Supervisor', 2437, 32, 7.4);
+
+insert into performance
+values(1028, 108, 5128, 'Supervisor', 1992, 75, 3.5);
+
+insert into performance
+values(1029, 122, 5129, 'Manager', 2749, 36, 5.25);
+
+insert into performance
+values(1030, 102, 5130, 'Manager', 4407, 24, 7.8);

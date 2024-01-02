@@ -1,0 +1,59 @@
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(2, 1, 'adapters', 300, 'samsung');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(7, 8, 'mobile', 200, 'samsung');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(5, 6, 'mobile', 150, 'oneplus');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(4, 7, 'simcard', 200, 'apple');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(1, 10, 'headset', 10, 'apple');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(7, 4, 'adapters', 850, 'oneplus');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(9, 3, 'adapters', 200, 'samsung');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(2, 3, 'adapters', 300, 'samsung');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(2, 2, 'mobile', 400, 'oneplus');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(6, 5, 'headset', 850, 'apple');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(3, 6, 'simcard', 150, 'oneplus');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(3, 9, 'speakers', 400, 'apple');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(5, 2, 'speakers', 850, 'apple');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(1, 8, 'speakers', 200, 'oneplus');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(8, 7, 'simcard', 150, 'oneplus');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(1, 10, 'simcard', 300, 'apple');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(1, 2, 'speakers', 400, 'samsung');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(3, 7, 'simcard', 400, 'oneplus');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(10, 10, 'headset', 300, 'apple');
+
+insert into Products (dealer_id, quantity, category, selling_rate_price, manufacturer)
+values(4, 8, 'speakers', 200, 'apple');

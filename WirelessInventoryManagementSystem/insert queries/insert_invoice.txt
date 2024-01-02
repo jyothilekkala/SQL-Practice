@@ -1,0 +1,150 @@
+
+insert into invoice
+values(3, 110, 46, 125, 'cash', '04-27-13', 5345);
+
+insert into invoice
+values(16, 120, 25, 109, 'cash', '02-28-17', 8831);
+
+insert into invoice
+values(17, 116,35, 109, 'cash', '12-02-19', 1358);
+
+insert into invoice
+values(24, 124, 18, 105,'cash','02-18-20', 6200);
+
+insert into invoice
+values(26, 147, 12, 110, 'cash', null, 7543);
+
+insert into invoice
+values(34, 115, 17, 123, 'cash', '03-15-12', 1918);
+
+insert into invoice
+values( 37, 142, 37, 118, 'cash', '11-25-15', 6314);
+
+insert into invoice
+values(42, 148, 27, 117,'cash', '12-05-08', 9604);
+
+insert into invoice
+values(48, 149, 35, 121, 'cash', '12-15-07', 9713);
+
+insert into invoice
+values(49, 149, 35, 129, 'cash', '03-23-19', 2685);
+
+insert into invoice
+values(1, 147, 47, 114,'debit', '06-11-07', 5522);
+
+insert into invoice
+values(10, 129, 1, 119,'debit', '04-05-07', 4877);
+
+insert into invoice
+values(8, 143, 36, 128, 'debit', '07-11-14', 2865);
+
+insert into invoice
+values(11, 141, 16, 101, 'debit', '05-23-09', 4985);
+
+insert into invoice
+values(12, 135, 14, 124, 'debit', '12-12-16', 2904);
+
+insert into invoice
+values(20, 146, 20, 112, 'debit', null, 2708);
+
+insert into invoice
+values(21, 115, 11, 123, 'debit', '03-15-19', 4517);
+
+insert into invoice
+values(22, 129, 30, 121, 'debit', '08-08-16', 8471);
+
+insert into invoice
+values(23, 139, 31, 101, 'debit', '09-28-12', 6107);
+
+insert into invoice
+values(28, 107, 18, 115, 'debit', '05-14-14', 4733);
+
+insert into invoice
+values(30, 101, 20, 108, 'debit', '02-20-11', 3144);
+
+insert into invoice
+values(44, 136, 5, 122, 'debit', '06-05-14', 9262);
+
+insert into invoice
+values(46, 143, 43, 122, 'debit', '12-29-07', 9212);
+
+insert into invoice
+values(50, 117, 39, 115, 'debit', '08-17-21', 456);
+
+insert into invoice
+values (4, 138, 40, 105, 'zelle', '01-10-10', 497);
+
+insert into invoice
+values (14, 125, 11, 128, 'zelle', '12-11-11', 8443);
+
+insert into invoice
+values (19, 146, 2, 107, 'zelle', '12-03-07', 6065);
+
+insert into invoice
+values (25, 106, 1, 101, 'zelle', '03-04-17', 1243);
+
+insert into invoice
+values (27, 127, 22, 121, 'zelle', '11-27-09', 2926);
+
+insert into invoice
+values (32, 141, 7, 103, 'zelle',null, 5468 );
+
+insert into invoice
+values (38, 120, 4, 126, 'zelle', '04-23-13', 1966);
+
+insert into invoice
+values (41, 129, 32, 122, 'zelle', '05-16-10', 6311);
+
+insert into invoice
+values(2, 109, 24, 109, 'credit', null, 1276);
+
+insert into invoice
+values(5, 123, 44, 104, 'credit', '05-25-09', 1282);
+
+insert into invoice
+values(29, 129, 48, 115, 'credit', '07-28-11', 7882);
+
+insert into invoice
+values(31, 115, 39, 118, 'credit', '09-20-21', 1818);
+
+insert into invoice
+values(33, 101, 37, 122, 'credit', '04-18-10', 6077);
+
+insert into invoice
+values(36, 116, 3, 101, 'credit', '08-20-22', 2619);
+
+insert into invoice
+values(6, 126, 47, 102, 'venmo', '10-11-12', 1916);
+
+insert into invoice
+values(7, 143, 49, 128, 'venmo', '07-13-13', 8803);
+
+insert into invoice
+values(9, 124, 38, 100, 'venmo', null, 7535);
+
+insert into invoice
+values(13, 112, 12, 101, 'venmo', '03-11-10', 1019);
+
+insert into invoice
+values(15, 116, 25, 121, 'venmo', '01-04-06', 2813);
+
+insert into invoice
+values(18, 109, 1, 115, 'venmo', '03-12-22', 8820);
+
+insert into invoice
+values(35, 140, 44, 113, 'venmo', '12-17-16', 6435);
+
+insert into invoice
+values(39, 135, 16, 110, 'venmo', '04-09-12', 719);
+
+insert into invoice
+values(40, 114, 4, 116, 'venmo', '06-04-13', 3253);
+
+insert into invoice
+values(43, 122, 47, 119, 'venmo', '06-09-19', 1512);
+
+insert into invoice
+values(45, 106, 30, 111, 'venmo', '06-09-13', 4909);
+
+insert into invoice
+values(47, 121, 14, 106, 'venmo', '02-20-18', 2496);

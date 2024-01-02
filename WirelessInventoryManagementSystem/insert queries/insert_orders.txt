@@ -1,0 +1,151 @@
+
+insert into orders
+values(100, 127, 43, 11, 1, 'online');
+
+insert into orders
+values(101, 124, 27, 4, 2, 'online');
+
+insert into orders
+values(102, 104, 10, 10, 1, null);
+
+insert into orders
+values(103, 118, 19, 13, 1, 'online');
+
+insert into orders
+values(104, 123, 41, 18, 8, 'online');
+
+insert into orders
+values(105, 128, 49, 19, 1, 'online');
+
+insert into orders
+values(106, 100, 29, 20, 3, 'online');
+
+insert into orders
+values(107, 126, 16, 6, 9, 'online');
+
+insert into orders
+values(108, 108, 38, 10, 3, 'in-store');
+
+insert into orders
+values(109, 117, 34, 18, 1, 'in-store');
+
+insert into orders
+values(110, 109, 4, 16, 4, 'in-store');
+
+insert into orders
+values(111, 119, 6, 7, 10, null);
+
+insert into orders
+values(112, 103, 20, 14, 10, 'in-store');
+
+insert into orders 
+values(113, 126, 27, 6, 10, 'online');
+
+insert into orders
+values(114, 108, 40, 6, 5, 'in-store');
+
+insert into orders
+values(115, 126, 6, 1, 2, 'online');
+
+insert into orders
+values(116, 125, 10, 9, 10, 'in-store');
+
+insert into orders
+values(117, 106, 1,11, 6, 'in-store');
+
+insert into orders
+values(118, 104, 14,16, 2, 'online');
+
+insert into orders
+values(119, 119, 15,3, 1, 'in-store');
+
+insert into orders
+values(120, 109, 22,18, 3, 'in-store');
+
+insert into orders
+values(121, 127, 28,18, 4, 'in-store');
+
+insert into orders
+values(122, 116, 41,5, 3, null);
+
+insert into orders
+values(123, 117, 21,14, 1, 'in-store');
+
+insert into orders
+values(124, 120, 31,14, 2, 'online');
+
+insert into orders
+values(125, 117, 26,15, 4, 'in-store');
+
+insert into orders
+values(126, 126, 38,9, 4, 'online');
+
+insert into orders
+values(127, 110, 24,8, 3, 'online');
+
+insert into orders
+values(128, 103, 5,12, 3, 'in-store');
+
+insert into orders
+values(129, 120, 23,11, 8, 'in-store');
+
+insert into orders
+values(130, 124, 28,2, 8, null);
+
+insert into orders
+values(131, 126, 40,19, 3, 'in-store');
+
+insert into orders
+values(132, 121, 14,6, 2, 'in-store');
+
+insert into orders
+values(133, 106, 35,19, 8, 'in-store');
+
+insert into orders
+values(134, 127, 32,9, 7, 'in-store');
+
+insert into orders
+values(135, 108, 15,10, 10, 'in-store');
+
+insert into orders
+values(136, 120, 24,14, 6, 'in-store');
+
+insert into orders
+values(137, 121, 22,10, 7, 'online');
+
+insert into orders
+values(138, 127, 37,16, 7, null);
+
+insert into orders
+values(139, 109, 14,20, 10, 'in-store');
+
+insert into orders
+values(140, 125, 15,3, 1, 'in-store');
+
+insert into orders
+values(141, 103, 48,16, 4, 'in-store');
+
+insert into orders
+values(142, 103, 1,15, 8, 'online');
+
+insert into orders
+values(143, 115, 32,7, 7, 'online');
+
+insert into orders
+values(144, 111, 34,4, 2, 'online');
+
+insert into orders
+values(145, 129, 45,8, 8, 'online');
+
+insert into orders
+values(146, 100, 2,7, 8, 'online');
+
+insert into orders
+values(147, 121,50,14, 8, 'in-store');
+
+insert into orders
+values(148, 109,47,1, 4, 'online');
+
+insert into orders
+values(149, 102,1,7, 9, 'in-store');
+

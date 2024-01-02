@@ -1,0 +1,60 @@
+
+insert into price
+values(1,20,150, 200, 180);
+
+insert into price
+values(2, 18, null, 400, 250);
+
+insert into price
+values(3, 4, 140, 200, 130);
+
+insert into price
+values(4, 5, 10, 10, 10);
+
+insert into price
+values(5, 13, null, 850, 750);
+
+insert into price
+values(6, 17, 300, 400, null);
+
+insert into price
+values(7, 8, 180, 300, 250);
+
+insert into price
+values(8, 6, 700, 850, 750);
+
+insert into price
+values(9, 15, 100, 150, 125);
+
+insert into price
+values(10, 1, 200, 300, 150);
+
+insert into price
+values(11, 2, 100, 150, 125);
+
+insert into price
+values(12, 10, 750, 800, 780);
+
+insert into price
+values(13, 19, 200, 300, 275);
+
+insert into price
+values(14, 16, 200, 300, 150);
+
+insert into price
+values(15, 11, 130, 150, 100);
+
+insert into price
+values(16, 9, 300, 400, 340);
+
+insert into price
+values(17, 7, 140, 200, 175);
+
+insert into price
+values(18, 14, 175, 200, 180);
+
+insert into price
+values(19, 12, 300, 400, 375);
+
+insert into price
+values(20, 3, 150, 200, 175);

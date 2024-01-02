@@ -1,0 +1,89 @@
+insert into employees
+values(100, 9, 'Oren Hamilton', 'supervisor', null, '(421) 217-7319');
+
+insert into employees
+values(101, 8, 'Hiroko Mcgowan', 'cashier', '01-10-03', '1-679-276-9712');
+
+insert into employees
+values(102, 4, 'Megan Shepherd', 'manager', '10-25-17', '1-536-745-5661');
+
+insert into employees
+values(103, 2, 'Jillian Baker', 'cashier', '11-01-09', '(357) 845-7558');
+
+insert into employees
+values(104, 4, 'Kyla Walter', 'cashier', null, '1-320-653-7483');
+
+insert into employees
+values(105, 5, 'Kirk Wall', 'cashier', '12-08-17', '1-570-782-4941');
+
+insert into employees
+values(106, 1, 'Byron Andrews', 'cashier', '01-24-19', '(196) 461-8981');
+
+insert into employees
+values(107, 2, 'Cora Farley', 'manager', null, '1-833-884-8155');
+
+insert into employees
+values(108, 10, 'Teagan Gates', 'cashier', '06-02-22', '1-245-643-9728');
+
+insert into employees
+values(109, 5, 'Emma Campbell', 'manager', '12-05-21', '1-862-356-3572');
+
+insert into employees
+values(110, 8, 'Colton Leonard', 'manager', '03-19-09', '1-911-206-8114');
+
+insert into employees
+values(111, 3, 'Talon Flowers', 'supervisor', null, '1-487-480-4392');
+
+insert into employees
+values(112, 2, 'Lani Thornton', 'worker', '02-10-05', '1-648-568-3334');
+
+insert into employees
+values(113, 10, 'Kathleen Le', 'manager', '05-20-10', '1-823-786-7128');
+
+insert into employees
+values(114, 6, 'Brenden Taylor', 'worker', '10-07-09', '1-361-516-2243');
+
+insert into employees
+values(115, 9, 'Kasimir William', 'supervisor', '02-09-13', '(127) 631-2815');
+
+insert into employees
+values(116, 1, 'Libby Doyle', 'cashier', '10-22-17', '1-741-950-8754');
+
+insert into employees
+values(117, 10, 'Brandon Baker', 'cashier', '04-18-14', '1-932-217-7776');
+
+insert into employees
+values(118, 2, 'Mallory Oneil', 'supervisor', '07-17-15', '(813) 447-4757');
+
+insert into employees
+values(119, 10, 'Jeanette Mcintyre', 'cashier', '06-02-08', '(796) 343-9029');
+
+insert into employees
+values(120, 3, 'Zena Mayer', 'worker', '11-27-08', '(384) 721-6886');
+
+insert into employees
+values(121, 10, 'Dora Rodgers', 'worker', '06-13-09', '1-437-479-2578');
+
+insert into employees
+values(122, 8, 'Ariel Ellison', 'cashier', '04-10-19', '(527) 248-1686');
+
+insert into employees
+values(123, 4, 'Jasper Stone', 'cashier', '12-14-15', '1-703-482-1230');
+
+insert into employees
+values(124, 5, 'Genevieve Gentry', 'manager', '04-09-19', '1-585-825-4133');
+
+insert into employees
+values(125, 5, 'Brennan Shepherd', 'worker', '08-20-13', '1-181-724-8471');
+
+insert into employees
+values(126, 7, 'Nathaniel Valdez', 'manager', '07-11-11', '(249) 511-5573');
+
+insert into employees
+values(127, 2, 'Caldwell Brady', 'worker', '10-28-15', '1-832-618-5403');
+
+insert into employees
+values(128, 8, 'Leo Christensen', 'cashier', '11-28-13', '(485) 922-7692');
+
+insert into employees
+values(129, 4, 'Gavin Oliver', 'worker', '12-10-10', '1-428-767-2358');

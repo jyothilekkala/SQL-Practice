@@ -1,0 +1,174 @@
+insert into customers  
+values (1, 'Rhonda', 'Morrison', 'new', null, 'Aurora', 'United States', '(458) 616-1674', 'cras.eget@aol.net');
+
+insert into customers 
+values (2, 'Simone', 'Pollard', 'existing', 'Ap #554-6760 Proin Rd.', 'Phoenix', 'United States', '1-668-177-3804', 'ante.lectus@hotmail.com');
+
+insert into customers 
+values (3, 'Jasper', 'David', 'new', 'Ap #947-7787 Eget St.', null, 'United States', '(778) 416-1551', 'lobortis.augue@outlook.org');
+
+insert into customers    
+values (4, 'Lionel', 'Drake', 'switcher', '4778 Velit. St.', 'Overland Park', 'United States', '(368) 431-0634', 'sed.nec@google.org');
+
+insert into customers 
+values (5, 'Candace', 'Cooper', 'existing', 'Ap #268-1228 Arcu Avenue', 'Columbus', 'United States', '1-776-584-5675', null);
+
+insert into customers    
+values (6, 'Chaney', 'Rodriquez', 'new', '7753 Est Rd.', 'West Jordan', 'United States', '1-429-786-2761', 'magna.a@aol.com');
+
+insert into customers    
+values (7, 'Caryn', 'Spence', 'switcher', '331-7935 Arcu. Street', 'Richmond', 'United States', '(757) 333-3626', 'est@hotmail.com');
+
+insert into customers 
+values (8, 'Meghan', 'Humphrey', 'new', '992-5091 Vitae Street', 'Fort Smith', 'United States', '(323) 493-1597', null);
+
+insert into customers    
+values (9, 'Vivian', 'Benjamin', 'switcher', '4326 Ante. Avenue', 'Saint Paul', 'United States', '1-275-314-4538', 'neque.vitae.semper@google.couk');
+
+insert into customers    
+values (10, 'Peter', 'Carr', 'existing', 'Ap #915-4049 Dui. St.', 'Montpelier', 'United States', '(261) 453-8684', 'eu.euismod@protonmail.couk');
+
+insert into customers    
+values (11, 'Lysandra', 'Long', 'existing', 'P.O. Box 760, 5842 Nam Av.', 'Springfield', 'United States', '1-690-715-8034', 'mauris@google.com');
+
+insert into customers    
+values (12, 'Lamar', 'Gamble', 'new', '203-5178 Nibh Avenue', 'Atlanta', 'United States', '(512) 266-3455', 'est@hotmail.com');
+
+insert into customers    
+values (13, 'Nichole', 'Bryant', 'switcher', 'P.O. Box 729, 487 Porttitor Rd.', 'San Jose', 'United States', '(966) 126-3378', 'volutpat@protonmail.org');
+
+insert into customers    
+values (14, 'Cody', 'Ballard', 'new', '9802 Imperdiet, Road', 'Flint', 'United States', '(612) 876-5028', 'consectetuer.adipiscing@hotmail.net');
+
+insert into customers    
+values (15, 'Nerea', 'Boyd', 'existing', 'Ap #241-1907 Cum St.', 'Springdale', 'United States', '(741) 140-6661', 'euismod.et@yahoo.couk');
+
+insert into customers    
+values (16, 'Carlos', 'Keller', 'new', '3796 Quam Avenue', 'Seattle', 'United States', '(494) 820-2096', 'curabitur.ut@icloud.ca');
+
+insert into customers    
+values (17, 'Paki', 'Irwin', 'new', 'Ap #802-5166 Justo St.', 'New Orleans', 'United States', '1-382-933-2317', 'sed.pharetra@icloud.com');
+
+insert into customers
+values (18, 'Benedict', 'Mcdonald', 'existing', 'Ap #268-9434 Nec Street', null, 'United States', '(240) 185-1134', 'nec@icloud.couk');
+
+insert into customers    
+values (19, 'Tate', 'Chandler', 'switcher', '243-6885 Sed St.', 'Baton Rouge', 'United States', '(553) 538-9833', 'consequat.auctor@hotmail.edu');
+
+insert into customers    
+values (20, 'Erasmus', 'Hicks', 'existing', '278-7618 Nisi Avenue', 'Chicago', 'United States', '(878) 695-6904', 'vitae@outlook.com');
+
+insert into customers   
+values (21, 'Kameko', 'Schwartz', 'existing', null, 'Mesa', 'United States', '(503) 151-5696', 'diam@outlook.net');
+
+insert into customers    
+values (22, 'Silas', 'Burgess', 'existing', '3397 Sapien. Rd.', 'Sacramento', 'United States', '1-484-813-6536', 'inceptos.hymenaeos.mauris@aol.org');
+
+insert into customers    
+values (23, 'Tallulah', 'Mckee', 'new', '115-3495 Hendrerit Rd.', 'Oklahoma City', 'United States', '(635) 561-6801', 'elit@protonmail.couk');
+
+insert into customers    
+values (24, 'Sage', 'Parsons', 'new', 'Ap #575-6139 Nunc. Rd.', 'Honolulu', 'United States', '(275) 154-6579', 'vivamus.non.lorem@protonmail.edu');
+
+insert into customers    
+values (25, 'Cody', 'Conley', 'switcher', 'Ap #467-9102 Luctus Avenue', 'Miami', 'United States', '1-217-514-7722', 'eu@protonmail.net');
+
+insert into customers
+values (26, 'Sybill', 'Campbell', 'new', 'P.O. Box 171, 6208 Sed St.', 
+        'Hattiesburg', 'United States', '1-725-141-7081', 'iaculis.enim@aol.net');
+
+insert into customers
+values (27, 'Malik', 'Barr', 'existing', '772-4785 Rhoncus. Road', 
+        'Harrisburg', 'United States', '1-266-633-3183', 'congue@google.org');
+
+insert into customers 
+values (28, 'Vance', 'Russo', 'existing', 'Ap #126-5422 Viverra. St.',  
+        'Wichita', 'United States', '1-605-274-3150', null);
+
+insert into customers 
+values (29, 'Fatima', 'Mccullough', 'switcher', 'Ap #830-9172 In Av.',  
+        'Birmingham', 'United States', '(670) 840-1484', 'lacus.etiam@aol.com');
+
+insert into customers 
+values (30, 'Roth', 'Wolf', 'existing', '501-2405 Nibh. Road',  
+        'Gillette', 'United States', '1-953-558-6338', 'nullam@hotmail.edu');
+
+insert into customers
+values (31, 'Lillian', 'Calhoun', 'new', '635-1835 Urna Street', 
+        'Annapolis', 'United States', '1-743-583-4084', 'tellus.eu@aol.edu');
+
+insert into customers
+values (32, 'Violet', 'Lowery', 'switcher', '6763 Id Avenue', 
+        'Columbia', 'United States', '1-375-252-3250', 'urna.suscipit@aol.ca');
+
+insert into customers
+values (33, 'Arden', 'Shepherd', 'new', 'Ap #618-2008 Varius Ave', 
+        'Aurora', 'United States', '1-564-861-6587', 'ac@icloud.net');
+
+insert into customers
+values (34, 'Whilemina', 'Hickman', 'existing', 'P.O. Box 932, 3184 Suspendisse Av.', 
+        'Las Vegas', 'United States', '1-946-896-7867', 'nibh.sit@aol.com');
+
+insert into customers
+values (35,'Jenette', 'Sheppard', 'existing', '185-9979 Sem, Av.', 
+        'Metairie', 'United States', '(355) 326-8014', 'maecenas@outlook.edu');
+
+insert into customers
+values (36,'Bell', 'Collins', 'existing', '8760 Eu Road', 
+        'Sandy', 'United States', '1-422-485-5470', 'mi@outlook.edu');
+
+insert into customers
+values (37, 'Logan', 'Dickerson', 'switcher', '430-9096 At Avenue', 
+        'Overland Park', 'United States', '1-954-593-5451', 'vel.est.tempor@outlook.net');
+
+insert into customers
+values (38, 'Whitney', 'Byrd', 'existing', '6241 Purus. Avenue', 
+        'College', 'United States', '(751) 594-6866', 'sed.est@google.ca');
+
+insert into customers
+values (39, 'Hedwig', 'Roach', 'new', 'Ap #826-9504 Aliquet. St.', 
+        null, 'United States', '1-482-610-7782', 'maecenas@outlook.couk');
+
+insert into customers
+values (40, 'Holly', 'Mayo', 'existing', '485-9867 Volutpat. Avenue', 
+        'New Haven', 'United States', '1-787-385-7449', 'neque.non@protonmail.com');
+
+insert into customers
+values (41,'Dalton', 'Lowery', 'switcher', 'P.O. Box 822, 9203 Tortor Avee', 
+        'Mesa', 'United States', '1-221-483-7498', 'aliquam.ultrices.iaculis@aol.couk');
+
+insert into customers
+values (42,'Leila', 'Barron', 'switcher', 'P.O. Box 206, 9352 At, Ave', 
+        'Athens', 'United States', '(948) 570-7712', 'pretium.aliquet@yahoo.couk');
+
+insert into customers
+values (43,'Selma', 'Parker', 'new', '1249 Auctor, St.', 
+        'Pocatello', 'United States', '1-314-176-1255', 'placerat.eget@aol.edu');
+
+insert into customers
+values (44,'Kyra', 'Shepherd', 'existing', '922-7499 Sed Street', 
+        'Fort Worth', null, '(822) 464-3026', 'vel.convallis@google.com');
+
+insert into customers
+values (45,'Hadassah', 'Ward', 'new', 'Ap #410-9070 Mauris St.', 
+        'Hillsboro', 'United States', '1-341-356-7827', 'fringilla.cursus@hotmail.com');
+
+insert into customers
+values (46, 'Zephania', 'Oliver', 'existing', 'Ap #492-6238 Duis Av.', 
+        'Grand Island', 'United States', '1-507-630-6998', 'ut.erat.sed@protonmail.edu');
+
+insert into customers
+values (47, 'Rylee', 'Carson', 'existing', '668-9341 Molestie Rd.',
+        'Tampa', 'United States', '1-680-785-5329', 'in@google.edu');
+
+insert into customers
+values (48, 'Sonya', 'Downs', 'new', 'Ap #693-5926 Maecenas Rd.',
+        'Springfield', 'United States', '(329) 231-8135', 'pellentesque.habitant@hotmail.com');
+
+insert into customers
+values (49,'Yoko', 'Phillips', 'new', 'Ap #496-5464 Malesuada Street',
+        'Lewiston', 'United States', '(786) 839-1023', 'non.arcu@google.net');
+
+insert into customers
+values (50, 'Byron', 'Mendez', 'switcher', 'Ap #164-3657 Pharetra. St.',
+        'Evansville', 'United States', '1-815-636-8831', 'eget@hotmail.org');

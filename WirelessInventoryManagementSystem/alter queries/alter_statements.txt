@@ -1,0 +1,39 @@
+ALTER TABLE employees
+rename column start_date to start_date1;
+
+ALTER TABLE employees
+ADD (start_date DATE);
+
+UPDATE employees
+SET start_date = TO_DATE(start_date1,'MM-DD-YY');
+
+ALTER TABLE employees
+DROP (start_date1);
+
+select * from employees;
+
+ALTER TABLE invoice
+rename column invoice_date to start_date1;
+
+ALTER TABLE invoice
+ADD (invoice_date DATE);
+
+UPDATE invoice
+SET invoice_date = TO_DATE(start_date1,'MM-DD-YY');
+
+ALTER TABLE invoice
+DROP (start_date1);
+
+ALTER TABLE dealer_store
+rename column start_date to start_date1;
+
+ALTER TABLE dealer_store
+ADD (start_date DATE);
+
+UPDATE dealer_store
+SET start_date = TO_DATE(start_date1,'MM-DD-YY');
+
+ALTER TABLE dealer_store
+DROP (start_date1);
+
+select * from dealer_store;
